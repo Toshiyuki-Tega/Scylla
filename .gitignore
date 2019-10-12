@@ -16,3 +16,4 @@ tinyxml/*
 #WTL ignore + exceptions
 WTL/*
 !WTL/README
+.vs/
